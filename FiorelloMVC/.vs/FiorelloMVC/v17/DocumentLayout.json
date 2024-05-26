@@ -1,0 +1,197 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Rashad\\OneDrive\\Desktop\\Fiorello-Basket-Paginate\\FiorelloMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{49B0EC13-5046-4E8A-A1FC-78D9005E616E}|FiorelloMVC\\FiorelloMVC.csproj|c:\\users\\rashad\\onedrive\\desktop\\fiorello-basket-paginate\\fiorellomvc\\fiorellomvc\\areas\\admin\\controllers\\archivecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49B0EC13-5046-4E8A-A1FC-78D9005E616E}|FiorelloMVC\\FiorelloMVC.csproj|solutionrelative:fiorellomvc\\areas\\admin\\controllers\\archivecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49B0EC13-5046-4E8A-A1FC-78D9005E616E}|FiorelloMVC\\FiorelloMVC.csproj|c:\\users\\rashad\\onedrive\\desktop\\fiorello-basket-paginate\\fiorellomvc\\fiorellomvc\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49B0EC13-5046-4E8A-A1FC-78D9005E616E}|FiorelloMVC\\FiorelloMVC.csproj|solutionrelative:fiorellomvc\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49B0EC13-5046-4E8A-A1FC-78D9005E616E}|FiorelloMVC\\FiorelloMVC.csproj|c:\\users\\rashad\\onedrive\\desktop\\fiorello-basket-paginate\\fiorellomvc\\fiorellomvc\\services\\interfaces\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49B0EC13-5046-4E8A-A1FC-78D9005E616E}|FiorelloMVC\\FiorelloMVC.csproj|solutionrelative:fiorellomvc\\services\\interfaces\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49B0EC13-5046-4E8A-A1FC-78D9005E616E}|FiorelloMVC\\FiorelloMVC.csproj|c:\\users\\rashad\\onedrive\\desktop\\fiorello-basket-paginate\\fiorellomvc\\fiorellomvc\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49B0EC13-5046-4E8A-A1FC-78D9005E616E}|FiorelloMVC\\FiorelloMVC.csproj|solutionrelative:fiorellomvc\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49B0EC13-5046-4E8A-A1FC-78D9005E616E}|FiorelloMVC\\FiorelloMVC.csproj|c:\\users\\rashad\\onedrive\\desktop\\fiorello-basket-paginate\\fiorellomvc\\fiorellomvc\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{49B0EC13-5046-4E8A-A1FC-78D9005E616E}|FiorelloMVC\\FiorelloMVC.csproj|solutionrelative:fiorellomvc\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49B0EC13-5046-4E8A-A1FC-78D9005E616E}|FiorelloMVC\\FiorelloMVC.csproj|c:\\users\\rashad\\onedrive\\desktop\\fiorello-basket-paginate\\fiorellomvc\\fiorellomvc\\wwwroot\\js\\basket.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{49B0EC13-5046-4E8A-A1FC-78D9005E616E}|FiorelloMVC\\FiorelloMVC.csproj|solutionrelative:fiorellomvc\\wwwroot\\js\\basket.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49B0EC13-5046-4E8A-A1FC-78D9005E616E}|FiorelloMVC\\FiorelloMVC.csproj|c:\\users\\rashad\\onedrive\\desktop\\fiorello-basket-paginate\\fiorellomvc\\fiorellomvc\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49B0EC13-5046-4E8A-A1FC-78D9005E616E}|FiorelloMVC\\FiorelloMVC.csproj|solutionrelative:fiorellomvc\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49B0EC13-5046-4E8A-A1FC-78D9005E616E}|FiorelloMVC\\FiorelloMVC.csproj|c:\\users\\rashad\\onedrive\\desktop\\fiorello-basket-paginate\\fiorellomvc\\fiorellomvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49B0EC13-5046-4E8A-A1FC-78D9005E616E}|FiorelloMVC\\FiorelloMVC.csproj|solutionrelative:fiorellomvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49B0EC13-5046-4E8A-A1FC-78D9005E616E}|FiorelloMVC\\FiorelloMVC.csproj|c:\\users\\rashad\\onedrive\\desktop\\fiorello-basket-paginate\\fiorellomvc\\fiorellomvc\\areas\\admin\\views\\archive\\categoryarchive.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{49B0EC13-5046-4E8A-A1FC-78D9005E616E}|FiorelloMVC\\FiorelloMVC.csproj|solutionrelative:fiorellomvc\\areas\\admin\\views\\archive\\categoryarchive.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49B0EC13-5046-4E8A-A1FC-78D9005E616E}|FiorelloMVC\\FiorelloMVC.csproj|c:\\users\\rashad\\onedrive\\desktop\\fiorello-basket-paginate\\fiorellomvc\\fiorellomvc\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{49B0EC13-5046-4E8A-A1FC-78D9005E616E}|FiorelloMVC\\FiorelloMVC.csproj|solutionrelative:fiorellomvc\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49B0EC13-5046-4E8A-A1FC-78D9005E616E}|FiorelloMVC\\FiorelloMVC.csproj|c:\\users\\rashad\\onedrive\\desktop\\fiorello-basket-paginate\\fiorellomvc\\fiorellomvc\\viewmodels\\categories\\categoryarchivevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49B0EC13-5046-4E8A-A1FC-78D9005E616E}|FiorelloMVC\\FiorelloMVC.csproj|solutionrelative:fiorellomvc\\viewmodels\\categories\\categoryarchivevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Rashad\\OneDrive\\Desktop\\Fiorello-Basket-Paginate\\FiorelloMVC\\FiorelloMVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "FiorelloMVC\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Rashad\\OneDrive\\Desktop\\Fiorello-Basket-Paginate\\FiorelloMVC\\FiorelloMVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "FiorelloMVC\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T22:29:52.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\Users\\Rashad\\OneDrive\\Desktop\\Fiorello-Basket-Paginate\\FiorelloMVC\\FiorelloMVC\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "FiorelloMVC\\Controllers\\CartController.cs",
+              "ToolTip": "C:\\Users\\Rashad\\OneDrive\\Desktop\\Fiorello-Basket-Paginate\\FiorelloMVC\\FiorelloMVC\\Controllers\\CartController.cs",
+              "RelativeToolTip": "FiorelloMVC\\Controllers\\CartController.cs",
+              "ViewState": "AQIAAI4AAAAAAAAAAAAAALoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T17:05:25.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Rashad\\OneDrive\\Desktop\\Fiorello-Basket-Paginate\\FiorelloMVC\\FiorelloMVC\\Views\\Cart\\Index.cshtml",
+              "RelativeDocumentMoniker": "FiorelloMVC\\Views\\Cart\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Rashad\\OneDrive\\Desktop\\Fiorello-Basket-Paginate\\FiorelloMVC\\FiorelloMVC\\Views\\Cart\\Index.cshtml",
+              "RelativeToolTip": "FiorelloMVC\\Views\\Cart\\Index.cshtml",
+              "ViewState": "AQIAACcBAAAAAAAAAAAAAEABAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-26T16:57:00.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "basket.js",
+              "DocumentMoniker": "C:\\Users\\Rashad\\OneDrive\\Desktop\\Fiorello-Basket-Paginate\\FiorelloMVC\\FiorelloMVC\\wwwroot\\js\\basket.js",
+              "RelativeDocumentMoniker": "FiorelloMVC\\wwwroot\\js\\basket.js",
+              "ToolTip": "C:\\Users\\Rashad\\OneDrive\\Desktop\\Fiorello-Basket-Paginate\\FiorelloMVC\\FiorelloMVC\\wwwroot\\js\\basket.js",
+              "RelativeToolTip": "FiorelloMVC\\wwwroot\\js\\basket.js",
+              "ViewState": "AQIAAGkAAAAAAAAAAAAAAL0AAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-05-26T15:58:31.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\Rashad\\OneDrive\\Desktop\\Fiorello-Basket-Paginate\\FiorelloMVC\\FiorelloMVC\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "FiorelloMVC\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\Rashad\\OneDrive\\Desktop\\Fiorello-Basket-Paginate\\FiorelloMVC\\FiorelloMVC\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "FiorelloMVC\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACMAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T15:11:54.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Rashad\\OneDrive\\Desktop\\Fiorello-Basket-Paginate\\FiorelloMVC\\FiorelloMVC\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "FiorelloMVC\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Rashad\\OneDrive\\Desktop\\Fiorello-Basket-Paginate\\FiorelloMVC\\FiorelloMVC\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "FiorelloMVC\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-26T15:11:07.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\Rashad\\OneDrive\\Desktop\\Fiorello-Basket-Paginate\\FiorelloMVC\\FiorelloMVC\\Services\\Interfaces\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "FiorelloMVC\\Services\\Interfaces\\ICategoryService.cs",
+              "ToolTip": "C:\\Users\\Rashad\\OneDrive\\Desktop\\Fiorello-Basket-Paginate\\FiorelloMVC\\FiorelloMVC\\Services\\Interfaces\\ICategoryService.cs",
+              "RelativeToolTip": "FiorelloMVC\\Services\\Interfaces\\ICategoryService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T15:08:11.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\Rashad\\OneDrive\\Desktop\\Fiorello-Basket-Paginate\\FiorelloMVC\\FiorelloMVC\\Services\\CategoryService.cs",
+              "RelativeDocumentMoniker": "FiorelloMVC\\Services\\CategoryService.cs",
+              "ToolTip": "C:\\Users\\Rashad\\OneDrive\\Desktop\\Fiorello-Basket-Paginate\\FiorelloMVC\\FiorelloMVC\\Services\\CategoryService.cs",
+              "RelativeToolTip": "FiorelloMVC\\Services\\CategoryService.cs",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAAAGcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T15:05:36.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CategoryArchiveVM.cs",
+              "DocumentMoniker": "C:\\Users\\Rashad\\OneDrive\\Desktop\\Fiorello-Basket-Paginate\\FiorelloMVC\\FiorelloMVC\\ViewModels\\Categories\\CategoryArchiveVM.cs",
+              "RelativeDocumentMoniker": "FiorelloMVC\\ViewModels\\Categories\\CategoryArchiveVM.cs",
+              "ToolTip": "C:\\Users\\Rashad\\OneDrive\\Desktop\\Fiorello-Basket-Paginate\\FiorelloMVC\\FiorelloMVC\\ViewModels\\Categories\\CategoryArchiveVM.cs",
+              "RelativeToolTip": "FiorelloMVC\\ViewModels\\Categories\\CategoryArchiveVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T15:05:25.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CategoryArchive.cshtml",
+              "DocumentMoniker": "C:\\Users\\Rashad\\OneDrive\\Desktop\\Fiorello-Basket-Paginate\\FiorelloMVC\\FiorelloMVC\\Areas\\Admin\\Views\\Archive\\CategoryArchive.cshtml",
+              "RelativeDocumentMoniker": "FiorelloMVC\\Areas\\Admin\\Views\\Archive\\CategoryArchive.cshtml",
+              "ToolTip": "C:\\Users\\Rashad\\OneDrive\\Desktop\\Fiorello-Basket-Paginate\\FiorelloMVC\\FiorelloMVC\\Areas\\Admin\\Views\\Archive\\CategoryArchive.cshtml",
+              "RelativeToolTip": "FiorelloMVC\\Areas\\Admin\\Views\\Archive\\CategoryArchive.cshtml",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAAAEAAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-26T14:39:48.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ArchiveController.cs",
+              "DocumentMoniker": "C:\\Users\\Rashad\\OneDrive\\Desktop\\Fiorello-Basket-Paginate\\FiorelloMVC\\FiorelloMVC\\Areas\\Admin\\Controllers\\ArchiveController.cs",
+              "RelativeDocumentMoniker": "FiorelloMVC\\Areas\\Admin\\Controllers\\ArchiveController.cs",
+              "ToolTip": "C:\\Users\\Rashad\\OneDrive\\Desktop\\Fiorello-Basket-Paginate\\FiorelloMVC\\FiorelloMVC\\Areas\\Admin\\Controllers\\ArchiveController.cs",
+              "RelativeToolTip": "FiorelloMVC\\Areas\\Admin\\Controllers\\ArchiveController.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAvwB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T14:27:21.874Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
